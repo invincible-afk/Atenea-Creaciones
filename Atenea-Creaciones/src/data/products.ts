@@ -8,7 +8,7 @@ export const products = [
   {
     title: "Muñecos a Crochet",
     description: "Adorables creaciones hechas con amor y dedicación. Nuestros muñecos son compañeros perfectos para los más pequeños y coleccionables únicos para todas las edades.",
-    imageUrl: "/Assets/images/naturaleza-muerta-peluches.jpg",
+    imageUrl: "/src/Assets/images/naturaleza-muerta-peluches.jpg",
     category: "Amigurumis"
   },
   {
