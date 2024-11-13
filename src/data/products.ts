@@ -26,7 +26,7 @@ export const products = [
   {
     title: "Mantas de Apego",
     description: "Esta manta de apego tejida es el compañero ideal para brindar confort y seguridad a los más pequeños. Confeccionada cuidadosamente a mano con materiales suaves y hipoalergénicos, esta manta es perfecta para acompañar cada momento especial, desde la hora de dormir hasta los primeros juegos y descubrimientos. Su diseño encantador y su textura suave estimulan el sentido del tacto, brindando una sensación de calma y familiaridad. Un accesorio imprescindible y un regalo perfecto que no solo acompaña, sino que también envuelve en calidez y ternura.",
-    imageUrl: "../src/Assets/images/Manta-apego.jpg",
+    imageUrl: "https://github.com/invincible-afk/Atenea-Creaciones/blob/main/src/Assets/images/Manta-apego.jpg",
     category: "Accesorios"
   }
 ];
