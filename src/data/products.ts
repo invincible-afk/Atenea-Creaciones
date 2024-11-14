@@ -1,32 +1,38 @@
+import ponchoImg from '../Assets/images/poncho.jpg';
+import munecoImg from '../Assets/images/naturaleza-muerta-peluches.jpg';
+import bolsoImg from '../Assets/images/bolso.jpg';
+import bufandaImg from '../Assets/images/bufanda.jpg';
+import mantaImg from '../Assets/images/Manta-apego.jpg';
+
 export const products = [
   {
     title: "Ponchos Artesanales",
-    description: "Descubre nuestra colección de ponchos tejidos a mano, donde la tradición se encuentra con el estilo contemporáneo. Cada pieza es única y está elaborada con los mejores materiales para brindarte calidez y confort.",
-    imageUrl: "/Assets/images/poncho.jpg",
+    description: "Descubre nuestra colección de ponchos tejidos a mano...",
+    imageUrl: ponchoImg,
     category: "Ponchos"
   },
   {
     title: "Muñecos a Crochet",
-    description: "Adorables creaciones hechas con amor y dedicación. Nuestros muñecos son compañeros perfectos para los más pequeños y coleccionables únicos para todas las edades.",
-    imageUrl: "/Assets/images/naturaleza-muerta-peluches.jpg",
+    description: "Adorables creaciones hechas con amor y dedicación...",
+    imageUrl: munecoImg,
     category: "Amigurumis"
   },
   {
     title: "Bolsos Tejidos",
-    description: "Elegancia y funcionalidad se unen en nuestra línea de bolsos tejidos. Diseños únicos que complementarán tu estilo personal con un toque artesanal.",
-    imageUrl: "/Assets/images/bolso.jpg",
+    description: "Elegancia y funcionalidad se unen en nuestra línea de bolsos tejidos...",
+    imageUrl: bolsoImg,
     category: "Accesorios"
   },
   {
     title: "Gorros y Bufandas",
-    description: "Mantente abrigado con estilo. Nuestra colección de gorros y bufandas combina comodidad y diseño, perfecta para cualquier ocasión.",
-    imageUrl: "/Assets/images/bufanda.jpg",
+    description: "Mantente abrigado con estilo...",
+    imageUrl: bufandaImg,
     category: "Accesorios"
   },
   {
     title: "Mantas de Apego",
-    description: "Esta manta de apego tejida es el compañero ideal para brindar confort y seguridad a los más pequeños. Confeccionada cuidadosamente a mano con materiales suaves y hipoalergénicos, esta manta es perfecta para acompañar cada momento especial, desde la hora de dormir hasta los primeros juegos y descubrimientos. Su diseño encantador y su textura suave estimulan el sentido del tacto, brindando una sensación de calma y familiaridad. Un accesorio imprescindible y un regalo perfecto que no solo acompaña, sino que también envuelve en calidez y ternura.",
-    imageUrl: "/Assets/images/Manta-apego.jpg",
+    description: "Esta manta de apego tejida es el compañero ideal...",
+    imageUrl: mantaImg,
     category: "Accesorios"
   }
 ];
