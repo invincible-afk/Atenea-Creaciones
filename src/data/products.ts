@@ -2,7 +2,7 @@ export const products = [
   {
     title: "Ponchos Artesanales",
     description: "Descubre nuestra colección de ponchos tejidos a mano, donde la tradición se encuentra con el estilo contemporáneo. Cada pieza es única y está elaborada con los mejores materiales para brindarte calidez y confort.",
-    imageUrl: "/src/Assets/images/poncho.jpg",
+    imageUrl: "/Assets/images/poncho.jpg",
     category: "Ponchos"
   },
   {
@@ -30,3 +30,4 @@ export const products = [
     category: "Accesorios"
   }
 ];
+
