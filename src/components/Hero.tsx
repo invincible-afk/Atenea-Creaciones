@@ -31,12 +31,6 @@ export const Hero: React.FC = () => {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mt-8">
-            <a
-              href="#productos"
-              className="px-8 py-4 bg-pink-500 hover:bg-pink-600 text-white rounded-full font-medium transition-all duration-300 transform hover:scale-105"
-            >
-              Ver Catálogo
-            </a>
             <SocialLinks theme={isDark ? 'dark' : 'light'} />
           </div>
         </div>
