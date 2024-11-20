@@ -11,10 +11,10 @@ export const SocialLinks: React.FC<SocialLinksProps> = ({ theme }) => {
 
   return (
     <div className="flex gap-4">
-      <a href="https://instagram.com" className={linkClass} aria-label="Instagram">
+      <a href="https://www.instagram.com/atenea.creaciones/profilecard/?igsh=M3pqZXFoa3RzenZw" className={linkClass} aria-label="Instagram">
         <Instagram className={iconClass} />
       </a>
-      <a href="https://facebook.com" className={linkClass} aria-label="Facebook">
+      <a href="https://www.facebook.com/atenea.creaciones?mibextid=ZbWKwL" className={linkClass} aria-label="Facebook">
         <Facebook className={iconClass} />
       </a>
       <a href="https://twitter.com" className={linkClass} aria-label="Twitter">
