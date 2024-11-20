@@ -1,5 +1,5 @@
 import React from 'react';
-import { Instagram, Facebook, Twitter } from 'lucide-react';
+import { Instagram, Facebook } from 'lucide-react';
 
 interface SocialLinksProps {
   theme: 'light' | 'dark';
@@ -17,10 +17,7 @@ export const SocialLinks: React.FC<SocialLinksProps> = ({ theme }) => {
       <a href="https://www.facebook.com/atenea.creaciones?mibextid=ZbWKwL" className={linkClass} aria-label="Facebook">
         <Facebook className={iconClass} />
       </a>
-      <a href="https://twitter.com" className={linkClass} aria-label="Twitter">
-        <Twitter className={iconClass} />
-      </a>
-    </div>
+      </div>
   );
 };
 
